@@ -9,4 +9,4 @@ npm i
 3. To run application on android use command below:
 npx react-native run-android
 
-for further details follow the documentation from react native: https://reactnative.dev/docs/getting-started
+For further details follow the documentation from react native: https://reactnative.dev/docs/getting-started
